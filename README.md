@@ -119,4 +119,4 @@ Planned improvements:
 
 ## Acknowledgements
 
-This notebook follows common RAG patterns from public documentation and examples in IST-736, customized for clinical/XAI document QA with source tracing and negative-test validation.
+This notebook follows common RAG patterns from public documentation and examples from class, customized for clinical/XAI document QA with source tracing and negative-test validation.
