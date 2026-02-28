@@ -57,7 +57,7 @@ Example placeholders:
 
 ![Answer + Sources](assets/screenshot_answer_Q1.jpg)
 
-![Negative Test](assets/screenshot_negative_test.png)
+![Negative Test](assets/screenshot_negative_test.jpg)
 
 ---
 
